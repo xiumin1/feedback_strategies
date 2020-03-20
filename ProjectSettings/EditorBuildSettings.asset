@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/3DBall/3DBall.unity
+    guid: 6f62a2ccb3830437ea4e85a617e856b3
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Xiumin_ball/ball.unity
+    guid: 98373bd21ca2cb244971fae6619926f1
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/BananaCollectors/BananaImitation.unity
+    guid: 3ae10073cde7641f488ef7c87862333a
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Xiumin_cubeOrder/testScene.unity
+    guid: 8cde9635fc53337449165bcd6b07f0b3
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Basic/Scene.unity
+    guid: cf1d119a8748d406e90ecb623b45f92f
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Tennis/Tennis.unity
+    guid: 25c0c9e81e55c4e129e1a5c0ac254100
+  - enabled: 1
+    path: Assets/ML-Agents/Examples/Xiumin_project/project_objectOrder.unity
+    guid: 8b0387a71db51474fba46f5bdccc38f4
+  m_configObjects: {}
